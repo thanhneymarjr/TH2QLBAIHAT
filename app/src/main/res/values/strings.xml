@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ĐE2TH2QLBAIHAT</string>
+    <string-array name="album">
+        <item>Cho 1 tình yêu</item>
+        <item>Nỗi yêu bé dại</item>
+        <item>cây lặng gió ngừng</item>
+        <item>Có dừng được không</item>
+        <item>Đây là mơ</item>
+        <item>ở giữa cuộc đời</item>
+
+
+    </string-array>
+    <string-array name="category">
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+
+    </string-array>
+    <string-array name="favorite">
+        <item>Có </item>
+        <item>Không</item>
+
+
+    </string-array>
+
+</resources>
